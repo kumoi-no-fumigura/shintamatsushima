@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shintamatsushima",
  "yomi": "しんたまつしまつきなみひゃくしゅ",
  "category": "定数歌",
- "description": null,
+ "description": {
+  "kind": "百首歌",
+  "era": "元禄9年（1696）7月奥書",
+  "author": "北村季吟（1624〜1705）",
+  "desc": "京の新玉津島に住んでいた頃に月次の題として定めた百首の題を、季吟がのちに自ら詠み終えたもの。箱の底から見出して人に贈ったという季吟の書状を付す。"
+ },
  "editions": [
   {
    "pid": "993386",
